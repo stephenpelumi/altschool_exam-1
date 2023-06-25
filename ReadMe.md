@@ -1,3 +1,3 @@
-This is my first project given by altschool and i used my basic HTML, CSS and Javascript Knowledge to develop this project.
+<img src="./styles/assets/images/RsFksmgg_400x400.jpg"">
 
-It is a static web page and it is non responsive.
+This is my first project given by Altschool Africa and i used my basic HTML and CSS Knowledge to develop this static web page.
